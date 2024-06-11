@@ -1,3 +1,3 @@
-#This is creative e-commerce web page using HTML and CSS.
-#Using animation and transformation effects.
-#preview this website https://sonikaboora.github.io/modern-chair-/
+This is creative e-commerce web page using HTML and CSS.
+<br>Using animation and transformation effects.
+<br>Preview this website https://sonikaboora.github.io/modern-chair-/
